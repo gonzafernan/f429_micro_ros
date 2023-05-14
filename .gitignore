@@ -1,3 +1,7 @@
 .vscode
 .mxproject
+.cproject
+.project
+.settings
+*.launch
 build/
